@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kelvinnghy96
+- 👋 Hi, I’m Kelvin Ng Han Yao
 - 👀 I’m interested in ML/AI
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
