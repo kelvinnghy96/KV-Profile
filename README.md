@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kelvin Ng Han Yao
-- 👀 I’m interested in ML/AI
+- 👀 I’m interested in ML/DL
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
